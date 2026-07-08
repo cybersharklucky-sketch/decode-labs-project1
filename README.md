@@ -34,7 +34,7 @@ A simple console-based To-Do List application developed in Python as part of Dec
 
 1. Clone the repository
 
-git clone https://github.com/cybershark-lucky/decode-labs-project1.git
+git clone https://github.com/cybersharklucky-sketch/decode-labs-project1.git
 
 2. Open the project folder
 
